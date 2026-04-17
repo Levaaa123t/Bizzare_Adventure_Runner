@@ -1,5 +1,5 @@
 # 🏃‍♂️ Bizzare Adventure Runner
-## [Gameplay Preview]<img width="1132" height="581" alt="image" src="https://github.com/user-attachments/assets/5d4cb98c-9901-43e8-9eba-0356ff12f4e3" />
+## Gameplay Preview<img width="1132" height="581" alt="image" src="https://github.com/user-attachments/assets/5d4cb98c-9901-43e8-9eba-0356ff12f4e3" />
 ### 📝 Описание
 Добро пожаловать в **Bizzare Adventure Runner**! Это классический 2D-платформер, вдохновленный *Mario*, *Terraria*. Тебя ждет путешествие по живописным лесам, прыжки по платформам и опасные препятствия.
 ---
